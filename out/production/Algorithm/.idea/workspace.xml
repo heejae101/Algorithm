@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ea4053f-3148-4f84-adee-cc5c00360c7c" name="Changes" comment="modified LRU">
-      <change afterPath="$PROJECT_DIR$/Duplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/LRU.java" afterDir="false" />
+    <list default="true" id="8ea4053f-3148-4f84-adee-cc5c00360c7c" name="Changes" comment="add 2023.09.10">
+      <change afterPath="$PROJECT_DIR$/DecisionAlgorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,28 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Duplication">
+  <component name="RunManager" selected="Application.DecisionAlgorithm">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompareTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompareTo" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecisionAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecisionAlgorithm" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Duplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Duplication" />
       <module name="Algorithm" />
@@ -76,15 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelectionSort" />
+    <configuration name="MISCHIEVOUSPERSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MISCHIEVOUSPERSON" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecisionAlgorithm" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.CompareTo" />
+        <item itemvalue="Application.MISCHIEVOUSPERSON" />
         <item itemvalue="Application.Duplication" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.InsertionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +130,8 @@
       <workItem from="1693642024836" duration="28000" />
       <workItem from="1693901251800" duration="13000" />
       <workItem from="1693903435077" duration="10000" />
-      <workItem from="1694184959526" duration="2087000" />
+      <workItem from="1694184959526" duration="9630000" />
+      <workItem from="1694411127938" duration="1831000" />
     </task>
     <task id="LOCAL-00001" summary="add sort">
       <option name="closed" value="true" />
@@ -175,7 +189,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694185089669</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add Duplication">
+      <option name="closed" value="true" />
+      <created>1694270409448</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694270409448</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add 2023.09.10">
+      <option name="closed" value="true" />
+      <created>1694335883641</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694335883641</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +216,8 @@
     <MESSAGE value="add test" />
     <MESSAGE value="add" />
     <MESSAGE value="modified LRU" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified LRU" />
+    <MESSAGE value="add Duplication" />
+    <MESSAGE value="add 2023.09.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 2023.09.10" />
   </component>
 </project>
