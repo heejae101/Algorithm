@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class BinarySearch {
@@ -39,5 +40,6 @@ public class BinarySearch {
         int[] arr = new int[arrLen];
         for(int i=0; i<arrLen; i++) arr[i] = sc.nextInt();
         System.out.println(T.soultion(arrLen, selectNum, arr));
+        Arrays.sort(arr);
     }
 }
