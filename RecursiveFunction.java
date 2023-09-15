@@ -1,5 +1,6 @@
 public class RecursiveFunction {
 
+    // 1,2,3 출력하기
     public void DFS(int n){
         if(n == 0) return;
         else{
