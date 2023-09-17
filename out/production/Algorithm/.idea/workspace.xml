@@ -4,10 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ea4053f-3148-4f84-adee-cc5c00360c7c" name="Changes" comment="add: 2023.09.14">
-      <change afterPath="$PROJECT_DIR$/RecursiveFunction3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecursiveFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecursiveFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8adc0758-0d35-4ba7-ad3f-2bf0aebaaf3d" name="Changes" comment="add LRU">
+      <change afterPath="$PROJECT_DIR$/RecursiveFunction5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecursiveFunction6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testSection6/Test11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Test10.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Test11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Test9.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,35 +33,15 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;heejae101&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="0444a751-b156-4f7f-9eb6-932b73f2c037" />
-        <option name="url" value="https://github.com/heejae101/Algorithm.git" />
-      </UrlAndAccount>
-    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="2UmgsEY6BaWOuFfwHXag2niwYXH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2Uw7GMLMCBntOO18c1yphri8qlr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,10 +50,9 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Algorithm&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/집/Desktop/알고리즘 연습/Algorithm&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -70,212 +60,58 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test9">
-    <configuration name="RecursiveFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveFunction" />
+  <component name="RunManager">
+    <configuration name="RecursiveFunction6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveFunction6" />
       <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecursiveFunction2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveFunction2" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecursiveFunction3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveFunction3" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test8" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test9" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test9" />
-        <item itemvalue="Application.RecursiveFunction3" />
-        <item itemvalue="Application.RecursiveFunction2" />
-        <item itemvalue="Application.RecursiveFunction" />
-        <item itemvalue="Application.Test8" />
+        <item itemvalue="Application.RecursiveFunction6" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8ea4053f-3148-4f84-adee-cc5c00360c7c" name="Changes" comment="" />
-      <created>1693550374377</created>
+      <changelist id="8adc0758-0d35-4ba7-ad3f-2bf0aebaaf3d" name="Changes" comment="" />
+      <created>1693838691618</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1693550374377</updated>
-      <workItem from="1693550375373" duration="2456000" />
-      <workItem from="1693637440472" duration="3933000" />
-      <workItem from="1693641414678" duration="128000" />
-      <workItem from="1693641552938" duration="138000" />
-      <workItem from="1693641706973" duration="185000" />
-      <workItem from="1693641903636" duration="108000" />
-      <workItem from="1693642024836" duration="28000" />
-      <workItem from="1693901251800" duration="13000" />
-      <workItem from="1693903435077" duration="10000" />
-      <workItem from="1694184959526" duration="9630000" />
-      <workItem from="1694411127938" duration="5461000" />
-      <workItem from="1694497210864" duration="10856000" />
-      <workItem from="1694592180128" duration="3547000" />
-      <workItem from="1694616324947" duration="5189000" />
-      <workItem from="1694660846315" duration="62000" />
-      <workItem from="1694670860154" duration="1617000" />
-      <workItem from="1694744620132" duration="2320000" />
-      <workItem from="1694749352487" duration="4000" />
-      <workItem from="1694757570273" duration="423000" />
+      <updated>1693838691618</updated>
+      <workItem from="1693838692600" duration="1096000" />
+      <workItem from="1693888688673" duration="1210000" />
+      <workItem from="1694915383300" duration="647000" />
+      <workItem from="1694925548230" duration="8676000" />
     </task>
-    <task id="LOCAL-00001" summary="add sort">
+    <task id="LOCAL-00001" summary="delete test">
       <option name="closed" value="true" />
-      <created>1693641454238</created>
+      <created>1693838712920</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1693641454238</updated>
+      <updated>1693838712920</updated>
     </task>
-    <task id="LOCAL-00002" summary="add sort">
+    <task id="LOCAL-00002" summary="add LRU">
       <option name="closed" value="true" />
-      <created>1693641630463</created>
+      <created>1693839188520</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1693641630463</updated>
+      <updated>1693839188520</updated>
     </task>
-    <task id="LOCAL-00003" summary="add sort">
-      <option name="closed" value="true" />
-      <created>1693641727301</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1693641727301</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add test">
-      <option name="closed" value="true" />
-      <created>1693641835810</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1693641835810</updated>
-    </task>
-    <task id="LOCAL-00005" summary="add">
-      <option name="closed" value="true" />
-      <created>1693641941162</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1693641941162</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add">
-      <option name="closed" value="true" />
-      <created>1693641980501</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1693641980501</updated>
-    </task>
-    <task id="LOCAL-00007" summary="modified LRU">
-      <option name="closed" value="true" />
-      <created>1694185089669</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1694185089669</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add Duplication">
-      <option name="closed" value="true" />
-      <created>1694270409448</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1694270409448</updated>
-    </task>
-    <task id="LOCAL-00009" summary="add 2023.09.10">
-      <option name="closed" value="true" />
-      <created>1694335883641</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1694335883641</updated>
-    </task>
-    <task id="LOCAL-00010" summary="add: 2023.09.11">
-      <option name="closed" value="true" />
-      <created>1694416931621</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1694416931621</updated>
-    </task>
-    <task id="LOCAL-00011" summary="add: 2023.09.13">
-      <option name="closed" value="true" />
-      <created>1694616768847</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1694616768847</updated>
-    </task>
-    <task id="LOCAL-00012" summary="add: 2023.09.14">
-      <option name="closed" value="true" />
-      <created>1694624537335</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1694624537335</updated>
-    </task>
-    <task id="LOCAL-00013" summary="add: 2023.09.14">
-      <option name="closed" value="true" />
-      <created>1694626421039</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1694626421039</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add sort" />
-    <MESSAGE value="add test" />
-    <MESSAGE value="add" />
-    <MESSAGE value="modified LRU" />
-    <MESSAGE value="add Duplication" />
-    <MESSAGE value="add 2023.09.10" />
-    <MESSAGE value="add: 2023.09.11" />
-    <MESSAGE value="add: 2023.09.13" />
-    <MESSAGE value="add: 2023.09.14" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: 2023.09.14" />
+    <MESSAGE value="delete test" />
+    <MESSAGE value="add LRU" />
+    <option name="LAST_COMMIT_MESSAGE" value="add LRU" />
   </component>
 </project>

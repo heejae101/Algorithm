@@ -1,8 +1,6 @@
-package test;
+package testSection6;
 
-import java.awt.*;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
