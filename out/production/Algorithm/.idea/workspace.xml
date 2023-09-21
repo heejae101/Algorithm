@@ -4,65 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8adc0758-0d35-4ba7-ad3f-2bf0aebaaf3d" name="Changes" comment="add LRU">
-      <change afterPath="$PROJECT_DIR$/RecursiveFunction5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecursiveFunction6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testSection6/Test11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Test10.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Test11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection6/Test8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Test9.java" beforeDir="false" />
+    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BFS2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFSTerminalNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/DFSTerminalNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
-}</component>
-  <component name="ProjectId" id="2Uw7GMLMCBntOO18c1yphri8qlr" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/집/Desktop/알고리즘 연습/Algorithm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
-    <configuration name="RecursiveFunction6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveFunction6" />
+    <configuration name="DFSTerminalNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFSTerminalNode" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,48 +30,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RecursiveFunction6" />
+        <item itemvalue="Application.DFSTerminalNode" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="8adc0758-0d35-4ba7-ad3f-2bf0aebaaf3d" name="Changes" comment="" />
-      <created>1693838691618</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1693838691618</updated>
-      <workItem from="1693838692600" duration="1096000" />
-      <workItem from="1693888688673" duration="1210000" />
-      <workItem from="1694915383300" duration="647000" />
-      <workItem from="1694925548230" duration="8676000" />
-    </task>
-    <task id="LOCAL-00001" summary="delete test">
-      <option name="closed" value="true" />
-      <created>1693838712920</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1693838712920</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add LRU">
-      <option name="closed" value="true" />
-      <created>1693839188520</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1693839188520</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="delete test" />
-    <MESSAGE value="add LRU" />
-    <option name="LAST_COMMIT_MESSAGE" value="add LRU" />
   </component>
 </project>
