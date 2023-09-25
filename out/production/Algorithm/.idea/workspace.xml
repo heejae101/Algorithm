@@ -4,23 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BFS2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFSTerminalNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/DFSTerminalNode.java" afterDir="false" />
+    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="add: 2023-09-25">
+      <change beforePath="$PROJECT_DIR$/RouteNavigationWithDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/RouteNavigationWithDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2Vh8SbG4pIflhS1hr4c5MNwXeZb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "jdk.selected.JAVA_MODULE": "11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.RouteNavigationWithDFS">
     <configuration name="DFSTerminalNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSTerminalNode" />
       <module name="Algorithm" />
@@ -28,13 +57,85 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RouteNavigationWithDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RouteNavigationWithDFS" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testSection6.Test12" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSection6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RouteNavigationWithDFS" />
+        <item itemvalue="Application.Test12" />
         <item itemvalue="Application.DFSTerminalNode" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="add: 2023-09-21">
+      <option name="closed" value="true" />
+      <created>1695276444795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695276444795</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="add: 2023-09-21" />
+      <created>1695276953969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695276953969</updated>
+      <workItem from="1695276958040" duration="1970000" />
+      <workItem from="1695365677406" duration="9578000" />
+      <workItem from="1695403180451" duration="1553000" />
+      <workItem from="1695478500612" duration="681000" />
+      <workItem from="1695533102758" duration="597000" />
+      <workItem from="1695638792681" duration="1440000" />
+    </task>
+    <task id="LOCAL-00002" summary="add: 2023-09-25">
+      <option name="closed" value="true" />
+      <created>1695639255620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695639255620</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add: 2023-09-21" />
+    <MESSAGE value="add: 2023-09-25" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: 2023-09-25" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/testSection6/Test12.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
