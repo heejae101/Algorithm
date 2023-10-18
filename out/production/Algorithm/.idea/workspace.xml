@@ -4,11 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="add: 2023-09-25">
-      <change afterPath="$PROJECT_DIR$/testSection1/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testSection1/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testSection1/Test3.java" afterDir="false" />
+    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="add: 2023-10-05">
+      <change afterPath="$PROJECT_DIR$/section7/BFS14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testSection1/Test12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFSTermainalNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/BFSTermainalNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompareTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/CompareTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DFSTerminalNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/DFSTerminalNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/DecisionAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecisionAlgorithm2.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/DecisionAlgorithm2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Duplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/Duplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Duplication2.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/Duplication2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphsAndAdjacentMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/GraphsAndAdjacentMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/LRU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MISCHIEVOUSPERSON.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursiveFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RecursiveFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursiveFunction2.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RecursiveFunction2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursiveFunction3.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RecursiveFunction3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursiveFunction4.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RecursiveFunction4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursiveFunction5.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RecursiveFunction5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursiveFunction6.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RecursiveFunction6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursiveFunction7.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RecursiveFunction7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RouteNavigationWithAdjacentList.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RouteNavigationWithAdjacentList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RouteNavigationWithDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RouteNavigationWithDFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test13.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/RecursiveFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/RecursiveFunction.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,16 +76,35 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test3">
-    <configuration name="RouteNavigationWithDFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RouteNavigationWithDFS" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Algorithm\section7" />
+      <recent name="C:\Algorithm\out" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test13">
+    <configuration name="RecursiveFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section7.RecursiveFunction" />
       <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testSection1.Test1" />
+      <option name="MAIN_CLASS_NAME" value="testPack.Test1" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testSection1.Test11" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -73,20 +117,7 @@
       </method>
     </configuration>
     <configuration name="Test12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testSection6.Test12" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testSection6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testSection1.Test2" />
+      <option name="MAIN_CLASS_NAME" value="testSection1.Test12" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testSection1.Test3" />
+    <configuration name="Test13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testSection1.Test13" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test13" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.RouteNavigationWithDFS" />
+        <item itemvalue="Application.RecursiveFunction" />
         <item itemvalue="Application.Test12" />
+        <item itemvalue="Application.Test11" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +175,12 @@
       <workItem from="1695533102758" duration="597000" />
       <workItem from="1695638792681" duration="3544000" />
       <workItem from="1696463076790" duration="3563000" />
+      <workItem from="1696476855655" duration="15982000" />
+      <workItem from="1696597212440" duration="10772000" />
+      <workItem from="1696661909202" duration="3734000" />
+      <workItem from="1696668419498" duration="194000" />
+      <workItem from="1697550358606" duration="1432000" />
+      <workItem from="1697604665040" duration="689000" />
     </task>
     <task id="LOCAL-00002" summary="add: 2023-09-25">
       <option name="closed" value="true" />
@@ -161,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695642122148</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add: 2023-10-05">
+      <option name="closed" value="true" />
+      <created>1696514638102</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696514638102</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +215,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add: 2023-09-21" />
     <MESSAGE value="add: 2023-09-25" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: 2023-09-25" />
+    <MESSAGE value="add: 2023-10-05" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: 2023-10-05" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -181,9 +227,10 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i == 18" language="JAVA" />
           <url>file://$PROJECT_DIR$/testSection1/Test3.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="18" />
+          <line>21</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
