@@ -4,36 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="add: 2023-10-05">
-      <change afterPath="$PROJECT_DIR$/section7/BFS14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testSection1/Test12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BFSTermainalNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/BFSTermainalNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CompareTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/CompareTo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DFSTerminalNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/DFSTerminalNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecisionAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/DecisionAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DecisionAlgorithm2.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/DecisionAlgorithm2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Duplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/Duplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Duplication2.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/Duplication2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GraphsAndAdjacentMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/GraphsAndAdjacentMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/LRU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MISCHIEVOUSPERSON.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecursiveFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RecursiveFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecursiveFunction2.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RecursiveFunction2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecursiveFunction3.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RecursiveFunction3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecursiveFunction4.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RecursiveFunction4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecursiveFunction5.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RecursiveFunction5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecursiveFunction6.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RecursiveFunction6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecursiveFunction7.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RecursiveFunction7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RouteNavigationWithAdjacentList.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RouteNavigationWithAdjacentList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RouteNavigationWithDFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/section7/RouteNavigationWithDFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/section6/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/RecursiveFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/RecursiveFunction.class" afterDir="false" />
+    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="add: 2023-10-18">
+      <change afterPath="$PROJECT_DIR$/testSection5/Test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +152,9 @@
       <workItem from="1696661909202" duration="3734000" />
       <workItem from="1696668419498" duration="194000" />
       <workItem from="1697550358606" duration="1432000" />
-      <workItem from="1697604665040" duration="689000" />
+      <workItem from="1697604665040" duration="1738000" />
+      <workItem from="1697606805044" duration="168000" />
+      <workItem from="1697612417425" duration="608000" />
     </task>
     <task id="LOCAL-00002" summary="add: 2023-09-25">
       <option name="closed" value="true" />
@@ -206,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696514638102</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add: 2023-10-18">
+      <option name="closed" value="true" />
+      <created>1697605767567</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697605767567</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +198,8 @@
     <MESSAGE value="add: 2023-09-21" />
     <MESSAGE value="add: 2023-09-25" />
     <MESSAGE value="add: 2023-10-05" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: 2023-10-05" />
+    <MESSAGE value="add: 2023-10-18" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: 2023-10-18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
