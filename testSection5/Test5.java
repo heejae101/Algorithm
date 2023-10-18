@@ -17,7 +17,6 @@ public class Test5 {
                 if(chk == 1){
                     result += 1;
                     stack.pop();
-                    chk = 0;
                 }else{
                     chk = 1;
                     stack.pop();
