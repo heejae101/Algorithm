@@ -5,19 +5,23 @@ import java.util.Queue;
 import java.util.Scanner;
 
 public class Test8 {
-    public int solution(int m, int[] arr){
+    public int solution(int n, int m, int[] arr){
+        Queue<Integer> Q = new LinkedList<>();
         int target = arr[m-1];
         int cnt = 0;
-        Queue<Integer> Q = new LinkedList<>();
+
         for(int x : arr) Q.offer(x);
-        while (Q.contains(target)){
-            int patientScore = Q.poll();
-            if(patientScore < Q.peek()){
-                cnt++;
-                Q.offer(patientScore);
+        while (!Q.isEmpty()){
+            int lt = Q.poll();
+            if(Q.peek() != null && lt < Q.peek()){
+                Q.offer(lt);
+                lt = -1;
+            }else cnt++;
+            if(lt != -1){
+
             }
         }
-        return cnt;
+        return cnt++;
     }
 
     public static void main(String[] args) {
@@ -27,6 +31,6 @@ public class Test8 {
         int m = sc.nextInt();
         int[] arr = new int[n];
         for(int i=0; i<n; i++) arr[i] = sc.nextInt();
-        System.out.println(T.solution(m, arr));
+        System.out.println(T.solution(n, m, arr));
     }
 }

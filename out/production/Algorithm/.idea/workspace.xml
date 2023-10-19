@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8adc0758-0d35-4ba7-ad3f-2bf0aebaaf3d" name="Changes" comment="add : 2023.09.30">
-      <change afterPath="$PROJECT_DIR$/testSection5/Test6.java" afterDir="false" />
+    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="add: 2023-10-18">
+      <change beforePath="$PROJECT_DIR$/testSection5/Test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSection5/Test8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,27 +22,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;heejae101&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="d70172f2-bc0c-4822-8285-61086b097a9b" />
-        <option name="url" value="https://github.com/heejae101/Algorithm.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2Uw7GMLMCBntOO18c1yphri8qlr" />
+  <component name="ProjectId" id="2Vh8SbG4pIflhS1hr4c5MNwXeZb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,32 +41,55 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/집/Desktop/알고리즘 연습/Algorithm&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test5">
-    <configuration name="BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BFS" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Algorithm\section7" />
+      <recent name="C:\Algorithm\out" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test8">
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testSection5.Test2" />
       <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSection5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveFunction7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursiveFunction7" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testSection5.Test3" />
       <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSection5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test13" />
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testSection5.Test4" />
       <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSection5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testSection6.Test9" />
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testSection5.Test8" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testSection6.*" />
+          <option name="PATTERN" value="testSection5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,90 +122,131 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test8" />
         <item itemvalue="Application.Test5" />
-        <item itemvalue="Application.Test13" />
-        <item itemvalue="Application.BFS" />
-        <item itemvalue="Application.RecursiveFunction7" />
-        <item itemvalue="Application.Test9" />
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="8adc0758-0d35-4ba7-ad3f-2bf0aebaaf3d" name="Changes" comment="" />
-      <created>1693838691618</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1693838691618</updated>
-      <workItem from="1693838692600" duration="1096000" />
-      <workItem from="1693888688673" duration="1210000" />
-      <workItem from="1694915383300" duration="647000" />
-      <workItem from="1694925548230" duration="16539000" />
-      <workItem from="1694957294141" duration="893000" />
-      <workItem from="1695134621354" duration="1195000" />
-      <workItem from="1695221260781" duration="318000" />
-      <workItem from="1695481938544" duration="30000" />
-      <workItem from="1695777087135" duration="69000" />
-      <workItem from="1695866740561" duration="1978000" />
-      <workItem from="1695869233263" duration="2470000" />
-      <workItem from="1695888340896" duration="213000" />
-      <workItem from="1696084644551" duration="685000" />
-      <workItem from="1696976367288" duration="252000" />
-      <workItem from="1696978176889" duration="11000" />
-      <workItem from="1697636852486" duration="344000" />
-    </task>
-    <task id="LOCAL-00001" summary="delete test">
+    <task id="LOCAL-00001" summary="add: 2023-09-21">
       <option name="closed" value="true" />
-      <created>1693838712920</created>
+      <created>1695276444795</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1693838712920</updated>
+      <updated>1695276444795</updated>
     </task>
-    <task id="LOCAL-00002" summary="add LRU">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="add: 2023-09-21" />
+      <created>1695276953969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695276953969</updated>
+      <workItem from="1695276958040" duration="1970000" />
+      <workItem from="1695365677406" duration="9578000" />
+      <workItem from="1695403180451" duration="1553000" />
+      <workItem from="1695478500612" duration="681000" />
+      <workItem from="1695533102758" duration="597000" />
+      <workItem from="1695638792681" duration="3544000" />
+      <workItem from="1696463076790" duration="3563000" />
+      <workItem from="1696476855655" duration="15982000" />
+      <workItem from="1696597212440" duration="10772000" />
+      <workItem from="1696661909202" duration="3734000" />
+      <workItem from="1696668419498" duration="194000" />
+      <workItem from="1697550358606" duration="1432000" />
+      <workItem from="1697604665040" duration="1738000" />
+      <workItem from="1697606805044" duration="168000" />
+      <workItem from="1697612417425" duration="8495000" />
+      <workItem from="1697631449223" duration="38000" />
+      <workItem from="1697689038721" duration="571000" />
+    </task>
+    <task id="LOCAL-00002" summary="add: 2023-09-25">
       <option name="closed" value="true" />
-      <created>1693839188520</created>
+      <created>1695639255620</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1693839188520</updated>
+      <updated>1695639255620</updated>
     </task>
-    <task id="LOCAL-00003" summary="add : 2023.09.17">
+    <task id="LOCAL-00003" summary="add: 2023-09-25">
       <option name="closed" value="true" />
-      <created>1694947983250</created>
+      <created>1695642122148</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1694947983250</updated>
+      <updated>1695642122148</updated>
     </task>
-    <task id="LOCAL-00004" summary="add : 2023.09.17">
+    <task id="LOCAL-00004" summary="add: 2023-10-05">
       <option name="closed" value="true" />
-      <created>1696084659390</created>
+      <created>1696514638102</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1696084659390</updated>
+      <updated>1696514638102</updated>
     </task>
-    <task id="LOCAL-00005" summary="add : 2023.09.30">
+    <task id="LOCAL-00005" summary="add: 2023-10-18">
       <option name="closed" value="true" />
-      <created>1696084672610</created>
+      <created>1697605767567</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1696084672610</updated>
+      <updated>1697605767567</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add: 2023-10-18">
+      <option name="closed" value="true" />
+      <created>1697631480609</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697631480609</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="delete test" />
-    <MESSAGE value="add LRU" />
-    <MESSAGE value="add : 2023.09.17" />
-    <MESSAGE value="add : 2023.09.30" />
-    <option name="LAST_COMMIT_MESSAGE" value="add : 2023.09.30" />
+    <MESSAGE value="add: 2023-09-21" />
+    <MESSAGE value="add: 2023-09-25" />
+    <MESSAGE value="add: 2023-10-05" />
+    <MESSAGE value="add: 2023-10-18" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: 2023-10-18" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/testSection6/Test12.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i == 18" language="JAVA" />
+          <url>file://$PROJECT_DIR$/testSection1/Test3.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/testSection5/Test3.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/testSection5/Test4.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/testSection5/Test5.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
