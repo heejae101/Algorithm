@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="add: 2023-10-31">
-      <change afterPath="$PROJECT_DIR$/section8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testSection4/Test4.java" beforeDir="false" />
+    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="add: 2023-11-01">
+      <change beforePath="$PROJECT_DIR$/section4/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/section4/Solution5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "heejae101"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;heejae101&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -69,13 +68,20 @@
       <recent name="C:\Algorithm\out" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.testSection4.Test2">
-    <configuration name="RecursiveFunction2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section7.RecursiveFunction2" />
+  <component name="RunManager" selected="Application.section4.Solution5">
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Solution1" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Solution2" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section7.*" />
+          <option name="PATTERN" value="section8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveFunction4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section7.RecursiveFunction4" />
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Solution3" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section7.*" />
+          <option name="PATTERN" value="section8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testSection7.Test3" />
+    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Solution5" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testSection7.*" />
+          <option name="PATTERN" value="section8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,25 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testSection4.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testSection4.Test1" />
+    <configuration name="section4.Solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section4.Solution5" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testSection4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testSection4.Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testSection4.Test2" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testSection4.*" />
+          <option name="PATTERN" value="section4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.testSection4.Test2" />
-        <item itemvalue="Application.testSection4.Test1" />
-        <item itemvalue="Application.RecursiveFunction4" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.RecursiveFunction2" />
+        <item itemvalue="Application.section4.Solution5" />
+        <item itemvalue="Application.Solution5" />
+        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +174,10 @@
       <workItem from="1698400927248" duration="4731000" />
       <workItem from="1698405712331" duration="215000" />
       <workItem from="1698643227787" duration="7561000" />
-      <workItem from="1698723505337" duration="3921000" />
+      <workItem from="1698723505337" duration="14124000" />
+      <workItem from="1698821009352" duration="4534000" />
+      <workItem from="1698832826555" duration="316000" />
+      <workItem from="1698982578298" duration="751000" />
     </task>
     <task id="LOCAL-00002" summary="add: 2023-09-25">
       <option name="closed" value="true" />
@@ -239,7 +235,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698728352980</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add: 2023-10-31">
+      <option name="closed" value="true" />
+      <created>1698733514454</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698733514454</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add: 2023-11-01">
+      <option name="closed" value="true" />
+      <created>1698845748151</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698845748151</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +264,8 @@
     <MESSAGE value="add: 2023-10-18" />
     <MESSAGE value="add: 2023-10-19" />
     <MESSAGE value="add: 2023-10-31" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: 2023-10-31" />
+    <MESSAGE value="add: 2023-11-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: 2023-11-01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -283,6 +296,11 @@
           <line>10</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/section8/Solution5.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/testSection7/Test1.java</url>
           <line>4</line>
@@ -300,6 +318,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/section8/Solution1.java</url>
+          <line>8</line>
+          <properties class="section8.Solution1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
