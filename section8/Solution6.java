@@ -9,7 +9,7 @@ public class Solution6 {
     static int n, m;
     public void DFS(int L){
         if(L==m){
-            for (int x : pm) System.out.println(x+" ");
+            for (int x : pm) System.out.print(x+" ");
             System.out.println();
         }
         else {
