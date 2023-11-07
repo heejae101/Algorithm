@@ -1,5 +1,6 @@
 package section8;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Solution8 {
