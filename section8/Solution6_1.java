@@ -2,7 +2,7 @@ package section8;
 
 import java.util.Scanner;
 
-public class Solution7_1 {
+public class Solution6_1 {
     static int[] arr, ch, pm;
     static int n,m;
     public void BFS(int idx){
@@ -16,7 +16,7 @@ public class Solution7_1 {
     }
 
     public static void main(String[] args) {
-        Solution7 T = new Solution7();
+        Solution6_1 T = new Solution6_1();
         Scanner sc = new Scanner(System.in);
         n = sc.nextInt();
         m = sc.nextInt();

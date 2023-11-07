@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="add: 2023-11-01">
-      <change beforePath="$PROJECT_DIR$/section4/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/section4/Solution5.java" afterDir="false" />
-    </list>
+    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="add: 2023-11-06" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +42,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2Vh8SbG4pIflhS1hr4c5MNwXeZb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,16 +68,9 @@
       <recent name="C:\Algorithm\out" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.section4.Solution5">
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.Solution1" />
-      <module name="Algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.Solution2" />
+  <component name="RunManager" selected="Application.Solution6">
+    <configuration name="Solution6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Solution6" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.Solution3" />
+    <configuration name="Solution7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Solution7" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.Solution5" />
+    <configuration name="Solution8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Solution8" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -115,12 +108,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="section4.Solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section4.Solution5" />
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testSection8.Test7" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="section4.*" />
+          <option name="PATTERN" value="testSection8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testSection8.Test8" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSection8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.section4.Solution5" />
-        <item itemvalue="Application.Solution5" />
-        <item itemvalue="Application.Solution3" />
-        <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.Solution1" />
+        <item itemvalue="Application.Solution6" />
+        <item itemvalue="Application.Test8" />
+        <item itemvalue="Application.Solution8" />
+        <item itemvalue="Application.Test7" />
+        <item itemvalue="Application.Solution7" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +183,12 @@
       <workItem from="1698723505337" duration="14124000" />
       <workItem from="1698821009352" duration="4534000" />
       <workItem from="1698832826555" duration="316000" />
-      <workItem from="1698982578298" duration="751000" />
+      <workItem from="1698982578298" duration="12715000" />
+      <workItem from="1699075361203" duration="9331000" />
+      <workItem from="1699252133081" duration="80000" />
+      <workItem from="1699252226149" duration="8604000" />
+      <workItem from="1699263915787" duration="143000" />
+      <workItem from="1699328761468" duration="670000" />
     </task>
     <task id="LOCAL-00002" summary="add: 2023-09-25">
       <option name="closed" value="true" />
@@ -251,7 +262,39 @@
       <option name="project" value="LOCAL" />
       <updated>1698845748151</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add: 2023-11-03">
+      <option name="closed" value="true" />
+      <created>1698996326861</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698996326861</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add: 2023-11-06">
+      <option name="closed" value="true" />
+      <created>1699258875777</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699258875777</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add: 2023-11-06">
+      <option name="closed" value="true" />
+      <created>1699258886473</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699258886473</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add: 2023-11-06">
+      <option name="closed" value="true" />
+      <created>1699264053934</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1699264053934</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,7 +308,9 @@
     <MESSAGE value="add: 2023-10-19" />
     <MESSAGE value="add: 2023-10-31" />
     <MESSAGE value="add: 2023-11-01" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: 2023-11-01" />
+    <MESSAGE value="add: 2023-11-03" />
+    <MESSAGE value="add: 2023-11-06" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: 2023-11-06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -301,6 +346,26 @@
           <line>48</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/section5/Solution8.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/testSection6/Test6_2.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/testSection7/Test8_2.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/section8/Solution8.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/testSection7/Test1.java</url>
           <line>4</line>
@@ -327,6 +392,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/section8/Solution7.java</url>
+          <line>12</line>
+          <properties class="section8.Solution7" method="DFS">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/testSection8/Test8.java</url>
+          <line>17</line>
+          <properties class="testSection8.Test8" method="DFS">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
