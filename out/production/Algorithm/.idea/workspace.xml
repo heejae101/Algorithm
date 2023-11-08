@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="add: 2023-11-06" />
+    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="Refactoring: 2023-11-07">
+      <change afterPath="$PROJECT_DIR$/section8/Solution12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section8/Solution12_1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,9 +71,9 @@
       <recent name="C:\Algorithm\out" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution6">
-    <configuration name="Solution6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.Solution6" />
+  <component name="RunManager" selected="Application.Solution12">
+    <configuration name="Solution10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Solution10" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +85,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.Solution7" />
+    <configuration name="Solution11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Solution11" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Solution12" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -108,25 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testSection8.Test7" />
+    <configuration name="Solution9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Solution9" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testSection8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testSection8.Test8" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testSection8.*" />
+          <option name="PATTERN" value="section8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution6" />
-        <item itemvalue="Application.Test8" />
+        <item itemvalue="Application.Solution12" />
+        <item itemvalue="Application.Solution11" />
+        <item itemvalue="Application.Solution10" />
+        <item itemvalue="Application.Solution9" />
         <item itemvalue="Application.Solution8" />
-        <item itemvalue="Application.Test7" />
-        <item itemvalue="Application.Solution7" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +191,8 @@
       <workItem from="1699252133081" duration="80000" />
       <workItem from="1699252226149" duration="8604000" />
       <workItem from="1699263915787" duration="143000" />
-      <workItem from="1699328761468" duration="670000" />
+      <workItem from="1699328761468" duration="12275000" />
+      <workItem from="1699414847640" duration="449000" />
     </task>
     <task id="LOCAL-00002" summary="add: 2023-09-25">
       <option name="closed" value="true" />
@@ -294,7 +298,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699264053934</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add: 2023-11-07">
+      <option name="closed" value="true" />
+      <created>1699336025694</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1699336025694</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Refactoring: 2023-11-07">
+      <option name="closed" value="true" />
+      <created>1699339412244</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1699339412244</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +330,9 @@
     <MESSAGE value="add: 2023-11-01" />
     <MESSAGE value="add: 2023-11-03" />
     <MESSAGE value="add: 2023-11-06" />
-    <option name="LAST_COMMIT_MESSAGE" value="add: 2023-11-06" />
+    <MESSAGE value="add: 2023-11-07" />
+    <MESSAGE value="Refactoring: 2023-11-07" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring: 2023-11-07" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -362,9 +384,9 @@
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/section8/Solution8.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="43" />
+          <url>file://$PROJECT_DIR$/section8/Solution12.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/testSection7/Test1.java</url>
@@ -410,6 +432,42 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/section8/Solution8.java</url>
+          <line>26</line>
+          <properties class="section8.Solution8" method="DFS">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/section8/Solution9.java</url>
+          <line>9</line>
+          <properties class="section8.Solution9" method="DFS">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/section8/Solution10.java</url>
+          <line>21</line>
+          <properties class="section8.Solution10" method="DFS">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/section8/Solution11.java</url>
+          <line>22</line>
+          <properties class="section8.Solution11" method="BFS">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
