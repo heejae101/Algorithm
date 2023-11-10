@@ -3,19 +3,20 @@ package section8;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+class Point{
+
+    public int x, y;
+    Point(int x, int y){
+        this.x = x;
+        this.y = y;
+    }
+}
+
 public class Solution15 {
 
     static int n, m, len, answer;
     static ArrayList<Point> pz,hs;
     static int[] combi;
-
-    class Point{
-        public int x, y;
-        Point(int x, int y){
-            this.x = x;
-            this.y = y;
-        }
-    }
 
     public void DFS(int L, int s){
         if(L==m){

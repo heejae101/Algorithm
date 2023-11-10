@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="Refactoring: 2023-11-07">
-      <change afterPath="$PROJECT_DIR$/section8/Solution12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/section8/Solution12_1.java" afterDir="false" />
+    <list default="true" id="06053541-2965-4c02-a08d-c7b021ebbaf3" name="Changes" comment="add : 2023-11-08">
+      <change afterPath="$PROJECT_DIR$/testSection8/Test9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/section8/Solution15.java" beforeDir="false" afterPath="$PROJECT_DIR$/section8/Solution15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,33 +71,7 @@
       <recent name="C:\Algorithm\out" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution12">
-    <configuration name="Solution10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.Solution10" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.Solution11" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test9">
     <configuration name="Solution12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section8.Solution12" />
       <module name="Algorithm" />
@@ -111,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.Solution8" />
+    <configuration name="Solution12_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Solution12_1" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -124,12 +98,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section8.Solution9" />
+    <configuration name="Solution13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Solution13" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="section8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.Solution15" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testSection8.Test9" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testSection8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test9" />
+        <item itemvalue="Application.Solution15" />
+        <item itemvalue="Application.Solution13" />
+        <item itemvalue="Application.Solution12_1" />
         <item itemvalue="Application.Solution12" />
-        <item itemvalue="Application.Solution11" />
-        <item itemvalue="Application.Solution10" />
-        <item itemvalue="Application.Solution9" />
-        <item itemvalue="Application.Solution8" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +192,8 @@
       <workItem from="1699252226149" duration="8604000" />
       <workItem from="1699263915787" duration="143000" />
       <workItem from="1699328761468" duration="12275000" />
-      <workItem from="1699414847640" duration="449000" />
+      <workItem from="1699414847640" duration="9378000" />
+      <workItem from="1699596008312" duration="1007000" />
     </task>
     <task id="LOCAL-00002" summary="add: 2023-09-25">
       <option name="closed" value="true" />
@@ -314,7 +315,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699339412244</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add : 2023-11-08">
+      <option name="closed" value="true" />
+      <created>1699416876554</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699416876554</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add : 2023-11-08">
+      <option name="closed" value="true" />
+      <created>1699428435185</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699428435185</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,7 +349,8 @@
     <MESSAGE value="add: 2023-11-06" />
     <MESSAGE value="add: 2023-11-07" />
     <MESSAGE value="Refactoring: 2023-11-07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring: 2023-11-07" />
+    <MESSAGE value="add : 2023-11-08" />
+    <option name="LAST_COMMIT_MESSAGE" value="add : 2023-11-08" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -385,8 +403,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/section8/Solution12.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="49" />
+          <line>31</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/testSection7/Test1.java</url>
