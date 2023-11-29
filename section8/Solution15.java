@@ -51,8 +51,8 @@ public class Solution15 {
         for(int i=0; i<n; i++){
             for(int j=0; j<n; j++){
                 int tmp = sc.nextInt();
-                if(tmp == 1) hs.add(new Point(i,j));
-                else if(tmp ==2) pz.add(new Point(i,j));
+//                if(tmp == 1) hs.add(new Point(i,j));
+//                else if(tmp ==2) pz.add(new Point(i,j));
             }
         }
         // 피자집 사이즈
