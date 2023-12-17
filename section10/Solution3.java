@@ -9,7 +9,7 @@ public class Solution3 {
     public int solution(int n){
         int answer = 0;
         dy[1] = 1;
-//        answer = dy[1]; 길이가 2 이하인 배열은 실행이 안되므로
+//        answer = dy[1]; 길이가 2 이하인 배열은 실행이 안되므로 ㅇ
         for(int i=1; i<n; i++){
             int max = 0;
             for(int j=i-1; j>=0; j--){
